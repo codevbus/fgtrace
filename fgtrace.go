@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/DataDog/gostackparse"
-	"github.com/felixge/fgtrace/internal"
+	"github.com/codevbus/fgtrace/internal"
 )
 
 const (

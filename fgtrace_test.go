@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/felixge/fgtrace/internal"
+	"github.com/codevbus/fgtrace/internal"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/goleak"
 )
