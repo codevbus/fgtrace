@@ -1,9 +1,9 @@
 module github.com/felixge/fgtrace
 
-go 1.18
+go 1.21
 
 require (
-	github.com/DataDog/gostackparse v0.6.0
+	github.com/DataDog/gostackparse v0.7.0
 	github.com/stretchr/testify v1.7.1
 	go.uber.org/goleak v1.1.12
 )
