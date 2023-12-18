@@ -1,4 +1,4 @@
-module github.com/felixge/fgtrace
+module github.com/codevbus/fgtrace
 
 go 1.21
 
